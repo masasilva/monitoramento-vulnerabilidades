@@ -23,4 +23,16 @@ Automação para verificação de vulnerabilidades em softwares amplamente utili
 
 ## 📂 Estrutura
 
+monitoramento-vulnerabilidades/ │ ├── scripts/ │ ├── check-winrar.ps1 │ ├── check-adobe.ps1 │ ├── check-7zip.ps1 │ └── integracao-sccm.ps1 │ ├── logs/ │ └── log_YYYYMMDD.txt │ ├── docs/ │ └── como-funciona.md
+
+---
+
+## 👤 Autor
+
+Matheus Antonio da Silva  
+🔗 [LinkedIn](https://www.linkedin.com/in/matheus-s-6a6b0734b)  
+🐙 [GitHub](https://github.com/masasilva)  
+📧 mas.asilva@outlook.com
+
+
 
